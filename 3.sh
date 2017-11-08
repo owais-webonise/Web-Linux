@@ -1,1 +1,1 @@
-cp hello.txt $1
+mv hello.txt $1
